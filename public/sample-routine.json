@@ -1,0 +1,23 @@
+{
+  "university": "Sonargaon University",
+  "department": "",
+  "program": "",
+  "semester": "",
+  "section": "",
+  "batch": "",
+  "classes": [
+    {
+      "day": "Sunday",
+      "start": "09:00",
+      "end": "10:30",
+      "courseCode": "COURSE-101",
+      "courseName": "Course Title",
+      "teacher": "Teacher Name",
+      "email": "teacher@example.com",
+      "mobile": "",
+      "floor": "04",
+      "room": "West-508",
+      "type": "Theory"
+    }
+  ]
+}

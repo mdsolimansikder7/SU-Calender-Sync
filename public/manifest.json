@@ -1,0 +1,9 @@
+{
+  "name": "SU Calendar Sync",
+  "short_name": "SU Calendar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe4",
+  "theme_color": "#0b3d2e",
+  "description": "Sonargaon University class routine sync for Google Calendar with reminders."
+}

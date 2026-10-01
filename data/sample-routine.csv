@@ -1,0 +1,8 @@
+day,start,end,courseCode,courseName,teacher,room,type
+Sunday,09:00,10:30,CSE-2201,Data Structures,Md. Hasan Ali,Room 304,Theory
+Sunday,10:45,12:15,CSE-2203,Database Systems,Farzana Akter,Room 210,Theory
+Monday,09:00,12:00,CSE-2202,Data Structures Lab,Md. Hasan Ali,Lab 2,Lab
+Tuesday,11:00,12:30,MAT-2205,Linear Algebra,Dr. Nasrin Sultana,Room 112,Theory
+Wednesday,09:00,10:30,CSE-2207,Computer Networks,Rakibul Islam,Room 401,Theory
+Wednesday,14:00,17:00,CSE-2204,Database Systems Lab,Farzana Akter,Lab 1,Lab
+Thursday,10:00,11:30,ENG-2101,Technical Writing,Sadia Rahman,Room 108,Theory
